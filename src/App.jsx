@@ -1,6 +1,4 @@
 import Button from '@mui/material/Button'
-import AccessAlarmIcon from '@mui/icons-material/AccessAlarm'
-import ThreeDRotation from '@mui/icons-material/ThreeDRotation'
 import { useColorScheme } from '@mui/material/styles'
 
 function ModeToggle() {
